@@ -3,7 +3,7 @@ import "./TodoItem.css";
 function TodoItem({ taskName }) {
   return (
     <>
-      <div className="listItem">
+      <div>
         <p>{taskName}</p>
       </div>
     </>
