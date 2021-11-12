@@ -1,0 +1,28 @@
+.appBody {
+  /* border: 1px solid black; */
+  width: 40%;
+  margin: 0 auto;
+  text-align: center;
+  border-radius: 10px;
+  background-color: rgb(187, 214, 230);
+  padding: 40px 10px 10px 10px;
+}
+.appHead {
+  text-align: center;
+}
+.todoButton {
+  background-color: orange;
+  border: none;
+  width: 40px;
+  height: 40px;
+  padding: 10px 10px 10px 10px;
+}
+.todo-input {
+  height: 35px;
+  width: 300px;
+  /* border-radius: 10px; */
+  border: none;
+}
+.add {
+  color: white;
+}

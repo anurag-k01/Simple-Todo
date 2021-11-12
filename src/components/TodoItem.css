@@ -1,0 +1,17 @@
+.listItem {
+  /* border: 1px solid black; */
+  width: 60%;
+  background-color: aquamarine;
+  /* border-radius: 20px; */
+  margin-top: 20px;
+  text-align: left;
+}
+.listItem:hover {
+  background-color: blue;
+  color: white;
+}
+
+.layout {
+  display: flex;
+  justify-content: center;
+}
