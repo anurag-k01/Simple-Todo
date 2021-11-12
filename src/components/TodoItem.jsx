@@ -1,10 +1,10 @@
 import React from "react";
-
-function TodoItem({taskName}) {
+import "./TodoItem.css";
+function TodoItem({ taskName }) {
   return (
     <>
-      <div>
-      <p>{taskName}</p>
+      <div className="listItem">
+        <p>{taskName}</p>
       </div>
     </>
   );
