@@ -6,7 +6,7 @@ function App() {
     <div>
       <div>
         <div className="appHead">
-          <h1>Your busy lidfgdfgdfgffe deserves this</h1>
+          <h1>Your busy lidfgdfgsdfsdfsdfdfgffe deserves this</h1>
           <Todo></Todo>
         </div>
       </div>
